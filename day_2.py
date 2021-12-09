@@ -1,4 +1,4 @@
-from data import day_2
+from data import day_2_input
 
 def compute_submarine_depth(moves):
     horizontal_moves = 0
@@ -50,4 +50,4 @@ def test_depth_measure():
 
 if __name__ == '__main__':
     test_depth_measure()
-    compute_submarine_depth(day_2)
+    compute_submarine_depth(day_2_input)

@@ -1,4 +1,4 @@
-day_2 = [
+day_2_input = [
     "forward_5",
     "forward_1",
     "forward_3",
@@ -1001,7 +1001,7 @@ day_2 = [
     "forward_8",
 ]
 
-day_3 = [
+day_3_input = [
     '010100010111',
     '100100100110',
     '100110111001',
